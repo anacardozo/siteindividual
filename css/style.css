@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css2?family=Euphoria+Script&family=Pacifico&display=swap');
+
+.verde{
+    position: absolute;
+    width: 100%;
+    height: 88px;
+    top: 0px;
+    background-color: #90ee90;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 33px;
+    text-align: center ;
+    font-family: 'Pacifico', cursive;}
+
+.logo{
+    box-sizing: border-box;
+    position: absolute;
+    width: 126px;
+    height: 88px;
+    left: -70px;
+    top: 0px;
+
+}
+
+#logo{
+    position: absolute;
+    width: 126px;
+    height: 88px;
+}
+
+.roxo{
+    position: absolute;
+    width: 126px;
+    height: 900px;
+    left: -7px;
+    top: 30px;
+    position: relative;
+    background-color: #a385af;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: left;
+    
+}
+
+.inicio{
+    color: #000000;
+}
+
+.atores{
+    color: #000000;
+}
+.doença{
+    color: #000000;
+}
+
+.branco{
+    position: relative;
+    width:895px;
+    height: 512px;
+    left: 119px;
+    top: -482px;
+    background-color: #ffffff;
+}
+
+#distancia{
+    position: absolute;
+    max-width: 450px;
+    max-height: 650px;
+    top:-388px;
+    left:0px ;
+}
+
+.resumo{
+    position: absolute;
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: -120px;
+    left: 0px;
+}
+
+.resumo2{
+    position: absolute;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 90px;
+    left: 0px;
+
+}
+
+#neve{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    top: 120px;
+    left: 0px;
+}
+
+.sobre{
+    position: absolute;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -400px;
+    left: 0px;
+    color: #000000;
+}
+
+.sobre2{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -330px;
+    color: #000000;
+    left: 0px;
+}
+
+.sobre3{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -280px;
+    color: #000000;
+    left: 0px;
+}
+
+.sobre4{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -207px;
+    color: #000000;
+    left: 0px;
+}
+
+.sobre5{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -80px;
+    color: #000000;
+    left: 0px;
+}
+
+.sobre6{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 18px;
+    color: #000000;
+    left: 0px;
+}
+
+.sobre7{
+    position: absolute;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 90px;
+    color: #000000;
+    left: 0px;
+}
+
+.sobre8{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 230px;
+    color: #000000;
+    left: 0px;
+}
+
+#piscina{
+    position: relative;
+    width: 300px;
+    height: 185px;
+    top: 322px;
+    left: -300px;
+}
+
+
+.stella{
+    position: absolute;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    top: -230px;
+    color: #9b0141;
+    left: -10px;
+}
+
+#halley{
+    position: absolute;
+    width: 300px;
+    height: 185px;
+    top: -392px;
+    left: 0px;
+}
+
+.stella2{
+    position: absolute;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    top: -145px;
+    color: #9b0141;
+    left: 0px;
+}
+
+#cole{
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    top: -35px;
+    left: 0px;
+}
+
+.cole{
+    position: absolute;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    top: 190px;
+    color: #9b0141;
+    left: 0px;
+}
+#reencontro{
+    position: absolute;
+    top: -388px;
+    width: 300px;
+    height: 200px;
+    left: 915px;
+}
+
+#janela{
+    position: absolute;
+    top: -190px;
+    width: 300px;
+    height: 200px;
+    left: 915px;  
+}
+
+#stelinha{
+    position: absolute;
+    top: -20px;
+    width: 300px;
+    height: 200px;
+    left: 915px;  
+}
+
+.rodapé{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    top: 980px;
+    left: 0px;
+    background-color: #90ee90;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center ;
+}
+
+.nome{
+    position: absolute;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    top: -400px;
+    color: #2c99f1;
+    left: 150px;  
+   
+}
+
+.doença1{
+    position: absolute;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: -300px;
+    color: #ffbf00;
+    left: 0px;    
+}
+
+.doença2{
+    position: absolute;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: -230px;
+    color: #e49ae4;
+    left: -7px;    
+}
+
+#pulmao{
+    position: absolute;
+    top: -110px;
+    width: 300px;
+    height: 230px;
+    left: 0px;  
+}
+
+.sintomas{
+    position: absolute;
+    top: -110px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.sintomas1{
+    position: absolute;
+    top: -80px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sintomas2{
+    position: absolute;
+    top: -50px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sintomas3{
+    position: absolute;
+    top: -20px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tratamento{
+    position: absolute;
+    top: 10px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.tratamento1{
+    position: absolute;
+    top: 35px;
+    font-size: 25px;
+    left: 290px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tratamento2{
+    position: absolute;
+    top: 90px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tratamento3{
+    position: absolute;
+    top: 120px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tratamento4{
+    position: absolute;
+    top: 150px;
+    font-size: 25px;
+    left: 310px;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#tratamentoimg{
+    position: absolute;
+    top: 110px;
+    width: 300px;
+    height: 400px;
+    left: 0px;  
+}
+
+#capa{
+    height: 95px;
+    width: 150px;
+    left: 50px;
+}
